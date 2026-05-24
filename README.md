@@ -54,7 +54,7 @@ The project followed an **iterative, milestone-based workflow** using agile prin
 
 ### How the scoring works
 
-Parameters were grouped into **5 importance tiers** based on peer-reviewed literature on maritime fuel adoption:
+Parameters were grouped into **4 importance tiers** based on peer-reviewed literature on maritime fuel adoption:
 
 **Tier 1 — weight 0.20 (critical):** Carbon emissions (WtW CO₂eq/MJ) · Cost (USD/mmBTU)
 
@@ -68,7 +68,7 @@ Each fuel was scored **1–10** per parameter using quantitative thresholds (e.g
 
 ![Parameter weight distribution](images/parameter_weights.png)
 
-*Donut chart — parameter weight distribution across 11 criteria*
+*Parameter weight distribution — Tier 1 parameters (carbon emissions, cost) carry the highest weight at 20% each*
 
 ---
 
@@ -78,13 +78,13 @@ Each fuel was scored **1–10** per parameter using quantitative thresholds (e.g
 
 ![Weighted score ranking](images/weighted_score_ranking.png)
 
-*Horizontal bar chart — final composite scores. LNG (7.92), Biodiesel (7.28), and LNG + Battery (7.08) rank highest.*
+*Final composite scores (max 10.0). LNG (7.92), Biodiesel (7.28), and LNG + Battery (7.08) rank highest overall.*
 
-### Heatmap — raw scores across all parameters
+### Scoring matrix heatmap — raw scores across all parameters
 
 ![Scoring matrix heatmap](images/scoring_heatmap.png)
 
-*Heatmap showing each fuel's raw score (1–10) per parameter. Darker = higher score.*
+*Each cell shows the raw score (1–10) for that fuel × parameter combination. Light green = low score (1), dark green = high score (10).*
 
 ### Core insight
 
