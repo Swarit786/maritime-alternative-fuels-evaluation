@@ -94,13 +94,15 @@ Bridging fuels are not the final destination — they are a necessary stepping s
 
 ## Team
 
-| Name | Responsibilities |
-|------|-----------------|
-| **Swarit Dinesh Tiwari** | Project Leader · Fuel overview · Conclusion · Project management documentation |
-| César Andrés Navarrete Álvarez | Evaluation parameters · Implementation · Scoring methodology |
-| Elton Dias | Hybrid fuels · Electrification of ports · Introduction |
+Team of 3 M.Sc. MEM students — responsibilities divided as follows:
 
-All members contributed to literature research, brainstorming, and bridging fuel analysis.
+| Role | Responsibilities |
+|------|-----------------|
+| **Project Leader (Swarit)** | Scope definition · Jira management · Fuel overview · Conclusion · Final documentation |
+| Team Member 2 | Evaluation parameters · Implementation · Scoring methodology |
+| Team Member 3 | Hybrid fuels · Electrification of ports · Introduction |
+
+All members contributed equally to literature research, brainstorming, and bridging fuel analysis.
 
 ---
 
@@ -108,8 +110,6 @@ All members contributed to literature research, brainstorming, and bridging fuel
 
 ```
 ├── README.md
-├── report/
-│   └── Alternative_Fuels_Maritime_Research_Report.pdf
 ├── images/
 │   ├── weighted_score_ranking.png
 │   ├── scoring_heatmap.png
